@@ -1,2 +1,12 @@
 # LeetCode-DSA-Java
-Topic wise LeetCode DSA solutions in Java .
+This repository contains my topic wise LeetCode DSA solutions in Java .
+I have just started solving DSA questions and will keep adding more solutions here.
+
+## ✅ Problems Solved So Far
+
+| No.    | Problem                         | Topic          | Difficulty |
+|-----   |---------------------------------|----------------|------------|
+| 1929   | Concatenation of Array          | Arrays         | Easy       |
+
+
+More problems coming soon !
