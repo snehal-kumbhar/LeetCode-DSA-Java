@@ -9,5 +9,8 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1929   | Concatenation of Array          | Arrays         | Easy       |
 | 1480   | Running Sum of 1d Array         | Arrays         | Easy       |
 | 1672   | Richest Customer Wealth         | Arrays         | Easy       |
+| 1470   | Shuffle the Array               | Arrays         | Easy       |
+| 1512   | Number of Good Pairs            | Arrays         | Easy       |
+|    1   | Two Sum                         | Arrays         | Easy       |
 
 More problems coming soon !
