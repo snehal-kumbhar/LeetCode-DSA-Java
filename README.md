@@ -12,5 +12,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1470   | Shuffle the Array               | Arrays         | Easy       |
 | 1512   | Number of Good Pairs            | Arrays         | Easy       |
 |    1   | Two Sum                         | Arrays         | Easy       |
+| 832    | Flipping an Image               | Arrays         | Easy       |
 
 More problems coming soon !
