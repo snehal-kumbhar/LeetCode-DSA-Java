@@ -13,5 +13,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1512   | Number of Good Pairs            | Arrays         | Easy       |
 |    1   | Two Sum                         | Arrays         | Easy       |
 | 832    | Flipping an Image               | Arrays         | Easy       |
+| 867    | Transpose Matrix                | Arrays         | Easy       |
+
 
 More problems coming soon !
