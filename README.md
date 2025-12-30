@@ -15,6 +15,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 832    | Flipping an Image               | Arrays         | Easy       |
 | 867    | Transpose Matrix                | Arrays         | Easy       |
 | 66     | Plus One                        | Arrays         | Easy       |
-
+| 167    | Two Sum II                      | Searching      | Medium     |
 
 More problems coming soon !
