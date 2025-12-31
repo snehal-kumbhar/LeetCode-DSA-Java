@@ -16,5 +16,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 867    | Transpose Matrix                | Arrays         | Easy       |
 | 66     | Plus One                        | Arrays         | Easy       |
 | 167    | Two Sum II                      | Searching      | Medium     |
+| 441    | Arranging Coins                 | Searching      | Easy       |
+
 
 More problems coming soon !
