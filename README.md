@@ -21,5 +21,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1108   | Defanging an IP Address         | Strings        | Easy       |
 | 1662   | Check If Two String Arrays are Equivalent| Strings | Easy     |
 | 1528   | Shuffle String                  | Strings        | Easy       |
+| 961    | N-Repeated Element in Size 2N Array | Arrays     | Easy       |
 
 More problems coming soon !
