@@ -19,5 +19,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 441    | Arranging Coins                 | Searching      | Easy       |
 | 709    | To Lower Case                   | Strings        | Easy       |
 | 1108   | Defanging an IP Address         | Strings        | Easy       |
+| 1662   | Check If Two String Arrays are Equivalent| Strings | Easy     |
+| 1528   | Shuffle String                  | Strings        | Easy       |
 
 More problems coming soon !
