@@ -22,5 +22,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1662   | Check If Two String Arrays are Equivalent| Strings | Easy     |
 | 1528   | Shuffle String                  | Strings        | Easy       |
 | 961    | N-Repeated Element in Size 2N Array | Arrays     | Easy       |
+| 2000   | Reverse Prefix of Word          | Strings        | Easy       |
 
 More problems coming soon !
