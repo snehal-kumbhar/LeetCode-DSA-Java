@@ -25,5 +25,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 2000   | Reverse Prefix of Word          | Strings        | Easy       |
 | 1351   | Count Negative Numbers in a Sorted Matrix | Searching | Easy  |
 | 1572   | Matrix Diagonal Sum             | Arrays         | Easy       |
+| 1431   | Kida With the Greatest Number of Candies | Arrays | Easy      |
 
 More problems coming soon !
