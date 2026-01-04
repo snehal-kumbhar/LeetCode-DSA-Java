@@ -24,4 +24,6 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 961    | N-Repeated Element in Size 2N Array | Arrays     | Easy       |
 | 2000   | Reverse Prefix of Word          | Strings        | Easy       |
 | 1351   | Count Negative Numbers in a Sorted Matrix | Searching | Easy  |
+| 1572   | Matrix Diagonal Sum             | Arrays         | Easy       |
+
 More problems coming soon !
