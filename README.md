@@ -25,6 +25,9 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 2000   | Reverse Prefix of Word          | Strings        | Easy       |
 | 1351   | Count Negative Numbers in a Sorted Matrix | Searching | Easy  |
 | 1572   | Matrix Diagonal Sum             | Arrays         | Easy       |
-| 1431   | Kida With the Greatest Number of Candies | Arrays | Easy      |
+| 1431   | Kids With the Greatest Number of Candies | Arrays | Easy      |
+| 1295   | Find Number with Even Number of Digits | Arrays  | Easy       |
+| 1365   | How Many Numbers Are Smaller Than The Current Number | Arrays | Easy |
+| 1732   | Find the Highest Altitude       | Arrays         | Easy       |
 
 More problems coming soon !
