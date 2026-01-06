@@ -30,4 +30,5 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1365   | How Many Numbers Are Smaller Than The Current Number | Arrays | Easy |
 | 1732   | Find the Highest Altitude       | Arrays         | Easy       |
 
+I guess the key is just to start somewhere.
 More problems coming soon !
