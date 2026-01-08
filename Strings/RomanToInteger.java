@@ -1,11 +1,12 @@
 /*
-Leetcode Question Number = 14
-Name = Longest Common Prefix
-Given a string array strs.
-Task is to find and return the longest common prefix
-shared by all strings in the array.
-If there is no common prefix, return an empty string "".
+Leetcode Question Number = 13
+Name = Roman to Integer
+Given a string s representing a Roman numeral.
+Task is to convert the Roman numeral into its
+corresponding integer value.
+Roman symbols used: I, V, X, L, C, D, M.
 */
+
 
 class Solution {
     public int romanToInt(String s) {
