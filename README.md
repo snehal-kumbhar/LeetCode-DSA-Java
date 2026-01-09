@@ -31,6 +31,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1732   | Find the Highest Altitude       | Arrays         | Easy       |
 | 14     | Longest Common Prefix           | Arrays         | Easy       |
 | 13     | Roman to Integer                | Arrays         | Easy       |
+| 9      | Palindrome Number               | Math           | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
