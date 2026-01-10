@@ -10,7 +10,7 @@ The API returns:
  0 : if your guess is equal to the picked number  
 Task is to return the number that was picked.
 */
-public class Solution extends GuessGame {
+public class HigherOrLower extends GuessGame {
     public int guessNumber(int n) {
         int s=1;
         int e=n;

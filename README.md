@@ -33,6 +33,11 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 13     | Roman to Integer                | Arrays         | Easy       |
 | 9      | Palindrome Number               | Math           | Easy       |
 | 35     | Search Insert Position          | Arrays         | Easy       |
+| 374    | Guess Number Higher or Lower    | Searching      | Easy       |
+| 278    | First Bad Version               | Searching      | Easy       |
+| 367    | Valid Perfect Square            | Searching      | Easy       |
+| 69     | Sqrt(x)                         | Searching      | Easy       |
+| 744    | Find Smallest Letter Greater Than Target| Searching | Easy    |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
