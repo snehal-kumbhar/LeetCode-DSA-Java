@@ -38,6 +38,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 367    | Valid Perfect Square            | Searching      | Easy       |
 | 69     | Sqrt(x)                         | Searching      | Easy       |
 | 744    | Find Smallest Letter Greater Than Target| Searching | Easy    |
+| 704    | Binary Search                   | Searching      | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
