@@ -39,6 +39,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 69     | Sqrt(x)                         | Searching      | Easy       |
 | 744    | Find Smallest Letter Greater Than Target| Searching | Easy    |
 | 704    | Binary Search                   | Searching      | Easy       |
+| 1266   | Minimum Time Visiting All Points  | Math         | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
