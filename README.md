@@ -42,6 +42,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1266   | Minimum Time Visiting All Points  | Math         | Easy       |
 | 28     | Find the Index of the First Occurence in a String | Strings | Easy |
 | 268    | Missing Number                  | Searching      | Easy       |
+| 350    | Intersection of Two Arrays II   | Searching      | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
