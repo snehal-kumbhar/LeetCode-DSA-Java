@@ -43,6 +43,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 28     | Find the Index of the First Occurence in a String | Strings | Easy |
 | 268    | Missing Number                  | Searching      | Easy       |
 | 350    | Intersection of Two Arrays II   | Searching      | Easy       |
+| 27     | Remove Element                  | Arrays         | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
