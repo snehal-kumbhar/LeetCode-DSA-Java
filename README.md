@@ -44,7 +44,8 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 268    | Missing Number                  | Searching      | Easy       |
 | 350    | Intersection of Two Arrays II   | Searching      | Easy       |
 | 27     | Remove Element                  | Arrays         | Easy       |
-| 26     | Remove Duplicates from Sorted Array | Arrays         | Easy       |
+| 26     | Remove Duplicates from Sorted Array | Arrays     | Easy       |
+| 2824   | Count Pairs Whose Sum is Less than Target | Searching | Easy  |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
