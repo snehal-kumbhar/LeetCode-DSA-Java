@@ -49,6 +49,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 2089   | Find Target Indices After Sorting Array  | Searching | Easy   | 
 | 34     | Find First and Last Position of Element in Sorted Array | Searching | Medium |
 | 852    | Peak Index in a Mountain Array  | Searching      | Medium     |
+| 162    | Find Peak Element               | Searching      | Medium     |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
