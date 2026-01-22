@@ -52,6 +52,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 162    | Find Peak Element               | Searching      | Medium     |
 | 3512   | Minimum Operations to Make Array Sum Divisible by K | Arrays  | Easy |
 | 1920   | Build Array from Permutation    | Arrays         | Easy       |
+| 2011   | Final Value of Variable After Performing Operations | Arrays  | Easy |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
