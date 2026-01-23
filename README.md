@@ -54,6 +54,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1920   | Build Array from Permutation    | Arrays         | Easy       |
 | 2011   | Final Value of Variable After Performing Operations | Arrays  | Easy |
 | 2824   | Count Pairs Whose Sum is Less than Target | Arrays  | Easy    |
+| 3289   | The Two Sneaky Numbers of Digitville | Arrays    | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
