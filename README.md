@@ -57,6 +57,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 3289   | The Two Sneaky Numbers of Digitville | Arrays    | Easy       |
 | 3701   | Compute Alternating Sum         | Arrays         | Easy       |
 | 1877   | Minimize Maximum Pair Sum in Array | Arrays      | Medium     |
+| 3190   | Find Minimum Operations to Make All Elements Divisible by Three |Arrays  | Easy    |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
