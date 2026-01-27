@@ -59,6 +59,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1877   | Minimize Maximum Pair Sum in Array | Arrays      | Medium     |
 | 3190   | Find Minimum Operations to Make All Elements Divisible by Three |Arrays  | Easy    |
 | 1200   | Minimum Absolute Difference     | Arrays         | Easy       |
+| 3668   | Restore Finishing Order         | Arrays         | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
