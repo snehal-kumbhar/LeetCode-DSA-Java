@@ -60,6 +60,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 3190   | Find Minimum Operations to Make All Elements Divisible by Three |Arrays  | Easy    |
 | 1200   | Minimum Absolute Difference     | Arrays         | Easy       |
 | 3668   | Restore Finishing Order         | Arrays         | Easy       |
+| 2942   | Find Words Containing Character | Arrays         | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
