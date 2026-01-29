@@ -61,7 +61,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1200   | Minimum Absolute Difference     | Arrays         | Easy       |
 | 3668   | Restore Finishing Order         | Arrays         | Easy       |
 | 2942   | Find Words Containing Character | Arrays         | Easy       |
-| 3467   | Running Sum of 1d Array         | Arrays         | Easy       |
+| 3467   | Transform Array by Parity       | Arrays         | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
