@@ -62,6 +62,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 3668   | Restore Finishing Order         | Arrays         | Easy       |
 | 2942   | Find Words Containing Character | Arrays         | Easy       |
 | 3467   | Transform Array by Parity       | Arrays         | Easy       |
+| 2798   | Number of Employees Who Met the Target | Arrays  | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
