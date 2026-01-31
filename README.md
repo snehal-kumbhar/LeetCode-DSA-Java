@@ -66,3 +66,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 
 I guess the key is just to start somewhere.
 More problems coming soon !
+
+SELF NOTES:
+— Month 1 Update
+Being productive isn’t about perfect days; it’s about not stopping.
