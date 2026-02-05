@@ -66,6 +66,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1684   | Count the Number of Consistent Strings | Arrays  | Easy       |
 | 1095   | Find in Mountain Array          | Searching      | HARD       |
 | 74     | Search a 2D Matrix              | Searching      | Medium     |
+| 153    | Find Minimum in Rotated Sorted Array | Searching | Medium     |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
