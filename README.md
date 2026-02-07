@@ -68,6 +68,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 74     | Search a 2D Matrix              | Searching      | Medium     |
 | 153    | Find Minimum in Rotated Sorted Array | Searching | Medium     |
 | 3379   | Transformed Array               | Arrays         | Easy       |
+| 1385   | Find the Distance Value Between Two Arrays | Searching | Easy |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
