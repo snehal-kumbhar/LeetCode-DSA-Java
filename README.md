@@ -72,6 +72,7 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 485    | Max Consecutive Ones            | Arrays         | Easy       |
 | 125    | Valid Palindrome                | Strings        | Easy       |
 | 121    | Best Time to Buy and Sell Stock | Arrays         | Easy       |
+| 1768   | Merge Strings Alternately       | Strings        | Easy       |
 
 I guess the key is just to start somewhere.
 More problems coming soon !
